@@ -1,2 +1,3 @@
 # SimpleSQL
-A simple SQL tool with python
+A simple SQL tool with python.
+
